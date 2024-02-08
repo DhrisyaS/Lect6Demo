@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-
+// Addecd changes
     //  added a new line
     @Override
     protected void onCreate(Bundle savedInstanceState) {
